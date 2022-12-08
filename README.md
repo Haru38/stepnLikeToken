@@ -1,3 +1,3 @@
 # steonLikeToken
 
-- stepn特有であるspending,wallet間のtokenのやりとり機能を持ったスマコン
+- stepn特有であるspending,wallet間のtokenのやり取り機能を持ったスマコン
